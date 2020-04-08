@@ -1,2 +1,2 @@
-cuadruple :: Number -> Number
-cuadruple numero = doble(doble numero)
+cuadruple  :: Number -> Number
+cuadruple  numero = doble(doble numero)
